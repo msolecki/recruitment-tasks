@@ -1,10 +1,8 @@
-[![propergate.co](https://github.com/propergate/recruitment/blob/main/images/propergate.png?raw=true "propergate.co")](https://propergate.co "propergate.co")
-
 # Frontend Recruitment Task
 
 ## [](#the-task)The task
 
-Your job is to code an REST API based on screens and description of [frontend task](https://github.com/propergate/recruitment/blob/main/FRONTEND.md)
+Your job is to code an REST API based on screens and description of [frontend task](https://github.com/msolecki/recruitment-tasks/blob/main/FRONTEND.md)
 Perfectly both tasks can work together.
 
 ## [](#tech-stack)Tech stack:

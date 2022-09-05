@@ -1,5 +1,3 @@
-[![propergate.co](https://github.com/propergate/recruitment/blob/main/images/propergate.png?raw=true "propergate.co")](https://propergate.co "propergate.co")
-
 # Frontend Recruitment Task
 
 ## [](#the-task)The task
@@ -14,17 +12,17 @@ Your job is to code an app with posts of users with ability to manage posts and 
 
 ## [](#screens)Screens:
 
-*  `Homepage` [![Homepage](https://github.com/propergate/recruitment/blob/main/images/HomePage.png)](/Pagepro/react-recruitment-task/blob/master/img/HomePage.png)
+*  `Homepage` [![Homepage](https://github.com/msolecki/recruitment-tasks/blob/main/images/HomePage.png)](/Pagepro/react-recruitment-task/blob/master/img/HomePage.png)
    *  List of users.
    *  For each user you must display his details (you can omit the address).
    *  On user click you will redirect to `User Details` page
-*  `User Details` [![User Details](https://github.com/propergate/recruitment/blob/main/images/UserDetails.png)](/Pagepro/react-recruitment-task/blob/master/img/UserDetails.png)
+*  `User Details` [![User Details](https://github.com/msolecki/recruitment-tasks/blob/main/images/UserDetails.png)](/Pagepro/react-recruitment-task/blob/master/img/UserDetails.png)
    *  This page contains the user name at the top of the page.
    *  List of user posts (just titles trimmed to one line).
    *  On click on the post item you will redirect to `Post Details` page
    *  Button that on click will open the `Add post modal`.
    *  Back button that will go back to `Homepage`
-*  `Post Details` [![User Details](https://github.com/propergate/recruitment/blob/main/images/PostDetails.png)](/Pagepro/react-recruitment-task/blob/master/img/PostDetails.png) [![User Details comments](https://github.com/propergate/recruitment/blob/main/images/PostDetailsComments.png)](/Pagepro/react-recruitment-task/blob/master/img/PostDetailsComments.png)
+*  `Post Details` [![User Details](https://github.com/msolecki/recruitment-tasks/blob/main/images/PostDetails.png)](/Pagepro/react-recruitment-task/blob/master/img/PostDetails.png) [![User Details comments](https://github.com/msolecki/recruitment-tasks/blob/main/images/PostDetailsComments.png)](/Pagepro/react-recruitment-task/blob/master/img/PostDetailsComments.png)
    *  On top of the page you still have the username
    *  Post full details
    *  Button to remove post.
@@ -33,7 +31,7 @@ Your job is to code an app with posts of users with ability to manage posts and 
    *  Button to add comment.
    *  Adding comments should be similar to `Add Post Modal` but contain different fields and action.
    *  Back button that will go back to `Posts list
-*  `Add Post/Comment Modal` [![Add Post Modal](https://github.com/propergate/recruitment/blob/main/images/AddPostModal.png)](/Pagepro/react-recruitment-task/blob/master/img/AddPostModal.png) [![Add Comment Modal](https://github.com/propergate/recruitment/blob/main/images/AddCommentModal.png)](/Pagepro/react-recruitment-task/blob/master/img/AddCommentModal.png)
+*  `Add Post/Comment Modal` [![Add Post Modal](https://github.com/msolecki/recruitment-tasks/blob/main/images/AddPostModal.png)](/Pagepro/react-recruitment-task/blob/master/img/AddPostModal.png) [![Add Comment Modal](https://github.com/msolecki/recruitment-tasks/blob/main/images/AddCommentModal.png)](/Pagepro/react-recruitment-task/blob/master/img/AddCommentModal.png)
    *  Title
    *  Form fields
    *  Two buttons `Cancel`, `Save`
